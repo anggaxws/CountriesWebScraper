@@ -1,4 +1,6 @@
-Installation
+In this code, I'd like to do web scraping on a website which provides information about all countries with their capital, population, and area (https://www.scrapethissite.com/)
+
+Installation:
 1. To run this web scraper, you need to have Python, mysql, and scrapy library installed on your machine.
 
 2. Install Scrapy: pip install scrapy
