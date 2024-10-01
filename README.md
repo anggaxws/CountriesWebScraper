@@ -1,3 +1,5 @@
+Name: IBNU ANGGA WIBISONO
+student number: 0247135142
 In this code, I'd like to do web scraping on a website which provides information about all countries with their capital, population, and area (https://www.scrapethissite.com/)
 
 Installation:
